@@ -140,7 +140,6 @@ This project helped in gaining practical experience with:
 **Y. Thanish Reddy**
 
 - GitHub: https://github.com/YTHANISHREDDY
-- LeetCode: https://leetcode.com/u/thanishyerasi/
 
 ## 📜 License
 
